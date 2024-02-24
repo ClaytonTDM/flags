@@ -1,4 +1,5 @@
 {
-    "testFloors": true,
-    "classicFloor": false
+    "Test1": true,
+    "Test2": true,
+    "Classic": true
 }
