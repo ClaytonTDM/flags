@@ -1,3 +1,4 @@
 {
-    "testFloors": true
+    "testFloors": true,
+    "classicFloor": true
 }
