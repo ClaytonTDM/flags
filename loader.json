@@ -1,0 +1,12 @@
+{
+    "flagsEnabled": true,
+    "menu": true,
+    "chap1": true,
+    "chap2": true,
+    "chap3": true,
+    "chap4": true,
+    "logo": true,
+    "cam": true,
+    "music": true,
+    "hide": false
+}
