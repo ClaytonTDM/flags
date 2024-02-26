@@ -4,6 +4,5 @@
     "buttons": true,
     "cam": true,
     "music": true,
-    "hide": false,
-    "loader": true
+    "hide": false
 }
