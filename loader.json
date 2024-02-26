@@ -2,8 +2,8 @@
     "flagsEnabled": true,
     "menu": true,
     "buttons": true,
-    "logo": true,
     "cam": true,
     "music": true,
-    "hide": false
+    "hide": false,
+    "loader": true
 }
