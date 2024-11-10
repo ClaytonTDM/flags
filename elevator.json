@@ -1,6 +1,6 @@
 {
     "flagsEnabled": true,
-    "Test1": false,
-    "Test2": false,
+    "Test1": true,
+    "Test2": true,
     "Classic": true
 }
